@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.bg-cont-min {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  height: 50vh;
+  width: 70vh;
+  border-radius: 20px;
+}
